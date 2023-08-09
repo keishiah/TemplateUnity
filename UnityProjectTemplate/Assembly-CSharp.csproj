@@ -94,58 +94,27 @@
      <Compile Include="Assets\CodeBase\UI\Factories\UIFactoryInstaller.cs" />
      <Compile Include="Assets\CodeBase\CompositionRoot\GameInstaller.cs" />
      <Folder Include="Assets" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\CodeBase\Services\SaveLoadService" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <Folder Include="Assets\TextMesh Pro\Sprites" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
      <Folder Include="Assets\CodeBase\Infrastructure\Factories" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <Folder Include="Assets\CodeBase\CompositionRoot" />
      <Folder Include="Assets\CodeBase\Services\StaticDataService" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\CodeBase\Infrastructure\Observables" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <Folder Include="Assets\CodeBase" />
      <Folder Include="Assets\CodeBase\Infrastructure\States" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <Folder Include="Assets\TextMesh Pro\Resources" />
      <Folder Include="Assets\CodeBase\Services\AdsService" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <Folder Include="Assets\TextMesh Pro" />
      <Folder Include="Assets\CodeBase\Data" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <Folder Include="Assets\CodeBase\UI\HUD" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <Folder Include="Assets\Resources" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <Folder Include="Assets\TextMesh Pro\Shaders" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
-     <Folder Include="Assets\TextMesh Pro\Fonts" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <Folder Include="Assets\CodeBase\Services" />
      <Folder Include="Assets\CodeBase\Services\RandomizerService" />
      <Folder Include="Assets\Resources\Infrastructure" />
      <Folder Include="Assets\CodeBase\Infrastructure" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <Folder Include="Assets\CodeBase\UI" />
      <Folder Include="Assets\CodeBase\Services\InputService" />
      <Folder Include="Assets\CodeBase\UI\Extensions" />
      <Folder Include="Assets\CodeBase\Services\PlayerProgressService" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
      <Folder Include="Assets\Resources\Scenes" />
-     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <Folder Include="Assets\TextMesh Pro\Documentation" />
      <Folder Include="Assets\CodeBase\UI\Factories" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -393,25 +362,13 @@
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Zenject-usage">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Pdb">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Mdb">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -786,91 +743,83 @@
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <Reference Include="UnityEditor.UI">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Shared.Editor">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline.Editor">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State">
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Zenject.csproj">
-      <Project>{c1fe0197-07ba-c5cf-b8f4-d895616b7bd8}</Project>
-      <Name>Zenject</Name>
-    </ProjectReference>
     <ProjectReference Include="Zenject-Editor.csproj">
       <Project>{b775bef8-7549-9577-76f2-6384727aefbc}</Project>
       <Name>Zenject-Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Zenject-PoolMonitor-Editor.csproj">
-      <Project>{b3dc5111-eda8-8803-e540-e2d38d840236}</Project>
-      <Name>Zenject-PoolMonitor-Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Zenject-ReflectionBaking-Editor.csproj">
-      <Project>{a3f6ec8c-833a-0b21-9a0b-93dc894b5fdc}</Project>
-      <Name>Zenject-ReflectionBaking-Editor</Name>
+    <ProjectReference Include="Zenject.csproj">
+      <Project>{c1fe0197-07ba-c5cf-b8f4-d895616b7bd8}</Project>
+      <Name>Zenject</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

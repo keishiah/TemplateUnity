@@ -283,190 +283,52 @@
      <Compile Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryToChoiceIdBinder\FactoryToChoiceIdBinder1.cs" />
      <Compile Include="Assets\Plugins\Zenject\Source\Install\Contexts\SceneContext.cs" />
      <Compile Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryFromBinder\SubContainerBinder\FactorySubContainerBinder2.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Main\SignalDeclarationAsyncInitializer.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyRotationHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers\EnemyInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyCommonSettings.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Main\SignalBusInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyDeathHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Asteroid\Asteroid.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Misc\TilingBackground.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Misc\LevelHelper.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\SignalSubscription.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\GameRestartHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerDamageHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\ShipState.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerDirectionHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyStateManager.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\SignalExtensions.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal\BindSignalIdToBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\EnemySpawner.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Main\SignalBus.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\ControlsDisplay.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyRegistry.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Asteroid\AsteroidManager.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\Bullet.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\States\EnemyStateIdle.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal\SignalBindingBindInfo.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyView.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerInputHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal\SignalCallbackWithLookupWrapper.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal\BindSignalFromBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerHealthWatcher.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers\GameInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\SignalDeclaration.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\BrokenShipFactory.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerFacade.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers\GameSignalsInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\ExplosionFactory.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\ShipStateFactory.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Main\GameController.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Installers\GameSettingsInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal\DeclareSignalRequireHandlerAsyncTickPriorityCopyBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerModel.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\SignalCopyBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyFacade.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\GameEvents.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal\DeclareSignalIdRequireHandlerAsyncTickPriorityCopyBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\Explosion.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerShootHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Util\GameEvents.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Util\UnityExtensionMethods.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Installers\GameInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerMoveHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\ShipStateWaitingToStart.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Misc\GuiHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerGui.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\ShipStateMoving.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal\DeclareSignalAsyncTickPriorityCopyBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States\ShipStateDead.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Misc\AudioHandler.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\LevelBoundary.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\SignalSubscriptionId.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal\BindSignalToBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal\SignalCallbackWrapper.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\SignalTickPriorityCopyBinder.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers\PlayerInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers\GameSettingsInstaller.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\Ship.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player\PlayerInputState.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\States\EnemyStateFollow.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\States\EnemyStateAttack.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc\AudioPlayer.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal\SignalDeclarationBindInfo.cs" />
-     <Compile Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\EnemyTunables.cs" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Main" />
      <Folder Include="Assets\Plugins\Zenject\Source\Runtime\Kernels" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\SubContainerCreators" />
-     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\Particle Alpha Blend_IgnoreFog.shader" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\Pooling" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Resources\Installers" />
      <Folder Include="Assets\Plugins\Zenject" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\BindSignal" />
      <Folder Include="Assets\Plugins\Zenject\Source" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Installers" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy\States" />
-     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\AddSmooth_Layer.shader" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryToChoiceBinder" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\PrefabProviders" />
      <Folder Include="Assets\Plugins\Zenject\Source\Factories\Pooling\Util" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Textures" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Misc" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Materials" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Physics" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Prefabs" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\UnitTests" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Meshes" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Textures\Background\Materials" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\ConcreteBinders" />
-     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Fonts\Space.txt" />
      <Folder Include="Assets\Plugins\Zenject\Source\Injection" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Meshes\Materials" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Sounds" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Rocks\meshes" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Enemy" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship\States" />
      <None Include="Assets\Plugins\Zenject\LICENSE.txt" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Rocks\meshes\Materials" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Finalizers" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Models\Materials" />
      <Folder Include="Assets\Plugins\Zenject\Source\Usage" />
      <Folder Include="Assets\Plugins\Zenject\Source\Main" />
      <None Include="Assets\Plugins\Zenject\package.json" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media" />
-     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\Add_Layer.shader" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Models" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Textures" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scenes" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Materials" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\SpaceShip" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\FromBinders" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryFromBinder\SubContainerBinder" />
      <Folder Include="Assets\Plugins\Zenject\Source\Factories" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Resources\SpaceFighter" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Installers" />
      <Folder Include="Assets\Plugins\Zenject\Source\Validation" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Player" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryFromBinder\Untyped" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\BindInfo" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras" />
      <Folder Include="Assets\Plugins\Zenject\Source\Factories\Pooling\Static" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Textures\Background" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory" />
      <None Include="Assets\Plugins\Zenject\Source\Usage\link.xml" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\Decorator" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\ComponentProviders" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Resources" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Fonts" />
      <None Include="Assets\Plugins\Zenject\Version.txt" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Prefabs" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\SpaceShip\Space_Shooter.fbm" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\PrefabCreators" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\ComponentProviders\AddToGameObjectComponentProviders" />
      <Folder Include="Assets\Plugins\Zenject\Source\Install" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\GameObject" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryFromBinder" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Util" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\MemoryPoolMonitor" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts\Misc" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Ship" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Textures" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Main" />
      <Folder Include="Assets\Plugins\Zenject\Source\Runtime" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Media\Materials" />
      <Folder Include="Assets\Plugins\Zenject\Source\Runtime\AnimatorInterfaces" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers\GameObjectProviders" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Resources" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Rocks" />
      <Folder Include="Assets\Plugins\Zenject\Source\Install\Contexts" />
      <None Include="Assets\Plugins\Zenject\zenject.asmdef" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryToChoiceIdBinder" />
      <Folder Include="Assets\Plugins\Zenject\Source\Providers" />
      <Folder Include="Assets\Plugins\Zenject\Source\Internal" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Physics" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Scripts\Asteroid" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Conventions" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame2 (Advanced)\Scripts" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\SpaceShip\Materials" />
      <Folder Include="Assets\Plugins\Zenject\Source\Factories\Pooling" />
      <Folder Include="Assets\Plugins\Zenject\Source\Binding\Binders\Factory\FactoryArgumentsToChoiceBinder" />
      <Folder Include="Assets\Plugins\Zenject\Source\Util" />
-     <None Include="Assets\Plugins\Zenject\OptionalExtras\UnitTests\ReadMe.txt" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Rocks\textures" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\SpaceShip\Textures" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\Signals\Internal\Binders\DeclareSignal" />
-     <Folder Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Sounds" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -723,46 +585,34 @@
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Zenject-usage">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Pdb">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Mdb">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
-     </Reference>
-     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -1137,10 +987,10 @@
      <HintPath>C:\Program Files\Unity 2021.3.19f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\keshiah\Desktop\Arch\KSyndicateZenjectTemplate\UnityProjectTemplate\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>C:\Users\keshiah\Desktop\Template unity\UnityProjectTemplate\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

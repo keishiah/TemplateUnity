@@ -6,8 +6,7 @@ namespace CodeBase.Services.StaticDataService
     {
         public void Initialize()
         {
-            // load your configs here
-            Debug.Log("Static data loaded");
+
         }
     }
 }
